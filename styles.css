@@ -1,0 +1,13 @@
+.blackSquare {
+    background-color: black;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.text { 
+    text-align: center;
+    margin: 42% auto;
+}
