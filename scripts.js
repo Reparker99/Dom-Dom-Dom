@@ -1,6 +1,3 @@
-/* let container = document.createElement('div');
-container.className = 'container'; */
-
 let btn = document.createElement("button");
 let squareLabel = document.createElement("label");
 let labelText = document.createTextNode("Add Square");
